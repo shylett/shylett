@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shylett
+- 👋 Hi, I’m @shylett.
 - 👀 I’m interested in simple solutions to complex issues.
 - 🌱 I’m currently learning a lot.
 - 💞️ I’m looking to collaborate on decision modelling.
